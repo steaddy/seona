@@ -5,6 +5,7 @@
 *.pdf
 *.psd
 *.sublime*
+*.vscode
 node_modules/
 npm-debug.*
 Thumbs.db
