@@ -1,4 +1,4 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Sedona»
 
 * Студент: [Steaddy](https://github.com/steaddy).
 * Наставник: `Неизвестно`.
