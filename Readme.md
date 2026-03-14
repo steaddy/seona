@@ -2,6 +2,7 @@
 
 * Студент: [Steaddy](https://github.com/steaddy).
 * Наставник: `Неизвестно`.
+* Сайт: [https://steaddy.github.io/seona/](https://steaddy.github.io/seona/).
 
 ---
 
