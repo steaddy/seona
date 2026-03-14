@@ -1,6 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [Steaddy](https://github.com/steaddy/seona).
+* Студент: [Steaddy](https://github.com/steaddy).
 * Наставник: `Неизвестно`.
 
 ---
